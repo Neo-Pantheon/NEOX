@@ -277,7 +277,7 @@ With the recommended fixes implemented, the NEOX token would achieve industry-le
 
 ---
 
-*This audit utilized one of the most comprehensive security testing frameworks available, covering virtually every known attack vector in the smart contract space. The test suite includes real-world exploit scenarios and enterprise-grade validation.*
+*This preliminary security review utilized one of the most comprehensive security testing frameworks available, covering virtually every known attack vector in the smart contract space. The test suite includes real-world exploit scenarios and enterprise-grade validation.*
 
-*Audit Date: June 2, 2025*  
+*Review Date: June 2, 2025*  
 *Security Researcher: Pavon Dunbar*
